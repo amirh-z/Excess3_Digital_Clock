@@ -8,4 +8,4 @@ You'll need Proteus in order to open the simulation file.
 A PDF file containing detailed description of this project is provided in Persian. An English version may be provided later.
 
 ## Simulation
-<img src="Simulation.gif" alt="Simulation" width="400" height="300"/>
+![Uploading Simulation.gif…]()
