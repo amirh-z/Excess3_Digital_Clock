@@ -8,4 +8,8 @@ You'll need Proteus in order to open the simulation file.
 A PDF file containing detailed description of this project is provided in Persian. An English version may be provided later.
 
 ## Simulation
-![Uploading Simulation.gif…]()
+
+
+
+https://github.com/amirh-z/Excess3_Digital_Clock/assets/22748718/96308477-dcf4-4875-9ae6-69b1380515e6
+
