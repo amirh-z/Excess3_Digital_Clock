@@ -5,7 +5,7 @@ A digital clock showing time in excess-3 format as my final project for the cour
 You'll need Proteus in order to open the simulation file.
 
 ## How does it work?
-A PDF file containing a detailed description of this project is provided in Persian. An English version may be provided later.
+A PDF file containing a detailed description of this project is provided in Persian. An English version may be added later.
 
 ## Simulation
 
